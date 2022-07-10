@@ -1,16 +1,9 @@
-# f_authentication
+# Autenticación con Firebase
 
-A new Flutter project.
+![Simulator Screen Recording - iPhone 12 Pro Max - 2022-07-09 at 20 04 42](https://user-images.githubusercontent.com/25647254/178127456-6cea5ded-93c1-4157-a69e-9bf2eeb18366.gif)
 
-## Getting Started
+En este ejemplo se utilizan las herramientas de autenticación de Firebase.
 
-This project is a starting point for a Flutter application.
+## Recursos
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Firebase Auth: https://firebase.google.com/docs/auth/flutter/start

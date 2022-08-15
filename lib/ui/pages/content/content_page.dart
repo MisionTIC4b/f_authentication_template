@@ -31,7 +31,7 @@ class _State extends State<ContentPage> {
             crossAxisAlignment: CrossAxisAlignment.center,
             children: [
               Text(
-                controller.currentUser!.email!,
+                /* TODO: muestra el email del usuario */,
                 style: const TextStyle(
                   fontWeight: FontWeight.bold,
                 ),
@@ -45,7 +45,7 @@ class _State extends State<ContentPage> {
                   fontWeight: FontWeight.bold,
                 ),
               ),
-              Text(controller.currentUser!.uid),
+              Text(/* TODO: muestra el uuid del usuario */),
               const SizedBox(
                 height: 16.0,
               ),
